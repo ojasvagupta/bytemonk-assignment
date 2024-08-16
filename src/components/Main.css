@@ -1,0 +1,14 @@
+.data-card{
+  display: flex;
+  list-style: none;
+  padding: 5px;
+}
+.data-card li{
+  padding: 5px;
+  border: black;
+  border-style: solid;
+  align-content: space-evenly;
+  margin-right: 20px;
+  width: fit-content;
+
+}

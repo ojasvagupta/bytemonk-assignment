@@ -1,0 +1,16 @@
+
+.Navbar{
+  background-color: rgb(17, 16, 16);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px;
+  
+}
+
+
+.name{
+  margin-left: 0;
+  
+}
